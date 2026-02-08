@@ -1,0 +1,135 @@
+{
+  "app": {
+    "name": "Klaboard",
+    "tagline": "essai-gratuit"
+  },
+  "nav": {
+    "search": "Rechercher",
+    "klaAi": "Kla IA",
+    "inbox": "Boîte de réception",
+    "calendar": "Calendrier",
+    "settings": "Paramètres & Préférences",
+    "sharedPages": "Pages partagées",
+    "privatePages": "Pages privées",
+    "accounts": "Comptes",
+    "new": "Nouveau"
+  },
+  "sidebar": {
+    "maximize": "Maximisez votre productivité",
+    "boost": "Boostez votre gestion des tâches avec des outils et fonctionnalités avancés.",
+    "upgrade": "Mettre à niveau"
+  },
+  "tasks": {
+    "hub": "Hub Tâches RH",
+    "welcome": "Bienvenue dans le hub des Ressources Humaines",
+    "searchPlaceholder": "Rechercher ici",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "share": "Partager",
+    "newTask": "Nouvelle tâche",
+    "addNew": "Ajouter une nouvelle tâche",
+    "noTasks": "Aucune tâche trouvée"
+  },
+  "views": {
+    "kanban": "Kanban",
+    "list": "Liste",
+    "calendar": "Calendrier",
+    "timeline": "Chronologie"
+  },
+  "columns": {
+    "name": "Nom",
+    "dates": "Dates",
+    "status": "Statut",
+    "attachment": "Pièce jointe",
+    "people": "Personnes"
+  },
+  "status": {
+    "todo": "À faire",
+    "inProgress": "En cours",
+    "review": "À réviser",
+    "done": "Terminé",
+    "high": "Élevée",
+    "medium": "Moyenne",
+    "low": "Basse"
+  },
+  "task": {
+    "title": "Titre",
+    "description": "Description",
+    "status": "Statut",
+    "priority": "Priorité",
+    "startDate": "Date de début",
+    "dueDate": "Date d'échéance",
+    "assignees": "Assignés"
+  },
+  "actions": {
+    "add": "Ajouter",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "create": "Créer",
+    "update": "Mettre à jour",
+    "confirmDelete": "Êtes-vous sûr de vouloir supprimer cette tâche ?"
+  },
+  "form": {
+    "newTask": "Nouvelle tâche",
+    "editTask": "Modifier la tâche",
+    "title": "Titre",
+    "titleRequired": "Le titre est requis",
+    "titlePlaceholder": "Entrez le titre de la tâche",
+    "description": "Description",
+    "descriptionPlaceholder": "Entrez la description de la tâche",
+    "priority": "Priorité",
+    "startDate": "Date de début",
+    "endDate": "Date de fin",
+    "assignees": "Assignés",
+    "selectStatus": "Sélectionner le statut",
+    "selectPriority": "Sélectionner la priorité",
+    "cancel": "Annuler",
+    "create": "Créer",
+    "update": "Mettre à jour"
+  },
+  "calendar": {
+    "week": "Semaine",
+    "month": "Mois",
+    "today": "Aujourd'hui"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "retry": "Réessayer"
+  },
+  "errors": {
+    "loadFailed": "Échec du chargement des tâches"
+  },
+  "messages": {
+    "taskCreated": "Tâche créée avec succès",
+    "taskUpdated": "Tâche mise à jour avec succès",
+    "taskDeleted": "Tâche supprimée avec succès",
+    "error": "Une erreur s'est produite"
+  },
+  "checklist": {
+    "title": "Liste de contrôle"
+  },
+  "comments": {
+    "title": "Commentaires"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "theme": "Thème",
+    "themeDescription": "Sélectionnez votre thème préféré",
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système",
+    "language": "Langue",
+    "languageDescription": "Sélectionnez votre langue préférée"
+  }
+}
