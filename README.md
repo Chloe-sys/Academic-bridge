@@ -6,7 +6,7 @@ A modern, responsive task management application built with **React 19**, **Type
 
 ## Live Demo
 
-> _Deploy link will be added after deployment to Netlify._
+> https://academic-bridge-pi.vercel.app/
 
 ---
 
