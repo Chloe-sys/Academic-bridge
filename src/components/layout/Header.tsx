@@ -1,4 +1,3 @@
-import { useTranslation } from "react-i18next";
 import {
   Search, Filter, ArrowUpDown, Share2, Star,
   MessageCircle, History, Plus, MoreHorizontal,
@@ -12,7 +11,6 @@ import type { ViewMode } from "../../types";
 import { useTaskStore } from "../../store/taskStore";
 
 export function Header() {
-  const { t } = useTranslation();
   const { viewMode, setViewMode, searchQuery, setSearchQuery } = useTaskStore();
   const ctx = useOutletContext<{ onToggleSidebar: () => void; isMobile: boolean } | undefined>();
 

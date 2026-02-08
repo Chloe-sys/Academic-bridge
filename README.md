@@ -14,9 +14,7 @@ A modern, responsive task management application built with **React 19**, **Type
 
 The application faithfully follows the provided design mockups with three task views (Kanban, List, Timeline), a collapsible sidebar, settings page, dark theme support, and full i18n.
 
-image.png 
-image.png
-image.png
+
 ---
 
 ## Tech Stack
@@ -187,16 +185,6 @@ All CRUD operations use the [DummyJSON Todos API](https://dummyjson.com/docs/tod
 
 ---
 
-## Deployment (Netlify)
-
-1. Push to GitHub
-2. Connect the repo on [Netlify](https://app.netlify.com)
-3. Build settings:
-   - **Build command:** `npm run build`
-   - **Publish directory:** `dist`
-4. A `netlify.toml` file is included for SPA redirect support.
-
----
 
 ## Design Decisions
 
